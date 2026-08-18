@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title description">
+  <title id="title">Marcador para fotografía</title>
+  <desc id="description">Silueta simple para indicar dónde colocar la fotografía de perfil.</desc>
+  <rect width="400" height="400" fill="#d9f0f3"/>
+  <circle cx="200" cy="145" r="70" fill="#6da8b3"/>
+  <path d="M78 360c10-90 57-133 122-133s112 43 122 133" fill="#6da8b3"/>
+  <text x="200" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#155e75">TU FOTO</text>
+</svg>

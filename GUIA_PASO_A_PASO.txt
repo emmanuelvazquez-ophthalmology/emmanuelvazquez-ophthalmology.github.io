@@ -1,0 +1,92 @@
+GUÍA DESDE CERO: PUBLICAR EN GITHUB PAGES
+===========================================
+
+PARTE 1 — CREAR LA CUENTA
+
+1. Entra a https://github.com/
+2. Pulsa “Sign up”.
+3. Escribe tu correo electrónico, crea una contraseña y elige un nombre de usuario.
+4. Completa la verificación que GitHub solicite.
+5. Confirma el mensaje que llegará a tu correo.
+6. Activa la verificación en dos pasos desde Settings > Password and authentication.
+
+IMPORTANTE: tu dirección gratuita dependerá del nombre de usuario.
+Si tu usuario es ejemplo, la dirección será https://ejemplo.github.io/
+
+PARTE 2 — CREAR EL REPOSITORIO
+
+1. Inicia sesión en GitHub.
+2. Pulsa el botón “+” de la esquina superior derecha.
+3. Selecciona “New repository”.
+4. En “Repository name” escribe exactamente:
+
+   TU-USUARIO.github.io
+
+   Sustituye TU-USUARIO por tu nombre real de usuario de GitHub.
+
+5. Selecciona “Public”.
+6. No marques “Add a README file”, porque el paquete ya incluye uno.
+7. Pulsa “Create repository”.
+
+PARTE 3 — SUBIR ESTA PLANTILLA
+
+1. Descomprime el archivo ZIP recibido.
+2. Abre la carpeta “sitio-oftalmologia-github”.
+3. Dentro de GitHub, en el repositorio vacío, pulsa “uploading an existing file”.
+   Si no aparece, usa Add file > Upload files.
+4. Arrastra TODOS LOS ARCHIVOS Y CARPETAS QUE ESTÁN DENTRO de
+   “sitio-oftalmologia-github” al cuadro de GitHub.
+
+   Debes ver index.html directamente en la raíz del repositorio.
+   No debe quedar dentro de una carpeta adicional.
+
+5. En “Commit changes” escribe: Primera versión del sitio
+6. Pulsa el botón verde “Commit changes”.
+
+PARTE 4 — ACTIVAR GITHUB PAGES
+
+1. Dentro del repositorio, abre “Settings”.
+2. En la columna izquierda, abre “Pages”.
+3. En “Build and deployment”, selecciona:
+   Source: Deploy from a branch
+4. En “Branch”, selecciona:
+   main   y   /(root)
+5. Pulsa “Save”.
+6. Espera unos minutos y vuelve a abrir Settings > Pages.
+7. GitHub mostrará la dirección publicada:
+
+   https://TU-USUARIO.github.io/
+
+PARTE 5 — CAMBIAR TU NOMBRE Y BIOGRAFÍA
+
+1. En el repositorio, pulsa `index.html`.
+2. Pulsa el icono del lápiz.
+3. Busca “Tu nombre” y reemplázalo.
+4. Reemplaza los párrafos de biografía.
+5. Pulsa “Commit changes” dos veces para guardar.
+
+PARTE 6 — CAMBIAR LA FOTOGRAFÍA
+
+1. Renombra tu fotografía como: foto-perfil.jpg
+2. En GitHub, abre la carpeta `assets`.
+3. Pulsa Add file > Upload files.
+4. Sube foto-perfil.jpg y pulsa Commit changes.
+5. La fotografía aparecerá automáticamente en el sitio.
+
+PARTE 7 — EDITAR UN CASO
+
+1. Abre estas carpetas en GitHub:
+   cornea > queratocono > casos
+2. Abre `basica.html`, `media.html` o `avanzada.html`.
+3. Pulsa el lápiz.
+4. Reemplaza solamente los textos de ejemplo.
+5. Pulsa Commit changes.
+6. Espera uno o dos minutos y actualiza la página publicada.
+
+SEGURIDAD CLÍNICA
+
+- No publiques nombres, identificaciones ni números de historia clínica.
+- Evita fechas exactas que puedan identificar al paciente.
+- Anonimiza fotografías e imágenes diagnósticas.
+- Verifica permisos y requisitos institucionales antes de publicar casos.
+- Mantén siempre una copia de seguridad del sitio.
