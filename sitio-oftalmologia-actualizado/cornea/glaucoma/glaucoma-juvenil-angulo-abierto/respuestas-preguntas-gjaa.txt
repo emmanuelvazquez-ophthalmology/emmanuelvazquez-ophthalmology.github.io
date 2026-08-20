@@ -1,0 +1,272 @@
+
+1. ¿El glaucoma juvenil de tensión normal es más frecuente en Asia o solo se diagnostica más allí? ¿En nuestro medio no se está diagnosticando?
+======================================================================
+
+Respuesta corta
+En adultos, el glaucoma de tensión normal (GTN) representa una proporción realmente alta del glaucoma primario de ángulo abierto en varias poblaciones asiáticas. Sin embargo, no hay evidencia epidemiológica sólida que permita afirmar que el glaucoma juvenil de tensión normal (GJTN) sea significativamente más frecuente en Asia. Esa afirmación extrapola datos del GTN adulto a un subtipo juvenil raro y poco estudiado.
+
+Explicación
+- En estudios poblacionales asiáticos, una gran proporción de los pacientes con glaucoma primario de ángulo abierto tuvo presiones intraoculares dentro del intervalo estadísticamente “normal”; por ejemplo, la revisión de Chen y colaboradores resume que en el Tajimi Study aproximadamente 92 % de los casos de glaucoma primario de ángulo abierto presentaban PIO de 21 mmHg o menos.
+- Esto probablemente refleja una combinación de diferencias poblacionales reales —distribución de la PIO, susceptibilidad del nervio óptico, factores vasculares y anatómicos— y diferencias en detección y definición diagnóstica. No puede atribuirse únicamente a que en Asia “se busque más”.
+- Para GJTN, la literatura consiste principalmente en series clínicas pequeñas y casos; faltan estudios poblacionales comparables entre Asia, Latinoamérica y otras regiones. Por tanto, no es correcto afirmar una mayor prevalencia asiática con el mismo grado de certeza que para el GTN adulto.
+- Sí es plausible que el GJTN esté infradiagnosticado en otros medios: los jóvenes suelen ser asintomáticos, una estrategia basada solo en tonometría omite casos con PIO ≤21 mmHg y la miopía o los discos inclinados pueden dificultar la interpretación. Pero no encontré datos que cuantifiquen ese posible subdiagnóstico en Colombia.
+
+Implicación práctica
+En un paciente joven con excavación o daño estructural sospechoso, hemorragia de disco, defecto de capa de fibras nerviosas o antecedente familiar, una PIO “normal” no descarta glaucoma. El diagnóstico requiere correlación entre nervio óptico, OCT y campo visual, además de gonioscopía, paquimetría y exclusión de causas secundarias y neuropatías no glaucomatosas.
+
+Referencias
+- CHEN, 2020. Normal tension glaucoma in Asia: Epidemiology, pathogenesis, diagnosis, and management. PubMed: https://pubmed.ncbi.nlm.nih.gov/33437596/
+- Texto completo en PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC7787092/
+- SELVAN, 2022. Juvenile-onset open-angle glaucoma – A clinical and genetic update. PubMed: https://pubmed.ncbi.nlm.nih.gov/34536459/
+- Texto completo en PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC9192165/
+
+======================================================================
+2. ¿Qué es el “análisis clínico por conglomerados” o cluster analysis?
+======================================================================
+
+Es una familia de métodos estadísticos no supervisados que agrupa pacientes según su similitud en varias características medidas, sin asignar previamente a cada persona una categoría diagnóstica. En otras palabras, el algoritmo busca patrones internos en los datos y coloca en el mismo conglomerado a pacientes relativamente parecidos y en conglomerados distintos a los más diferentes.
+
+En el estudio de Birla y colaboradores se analizaron 414 pacientes con GJAA y fenotipo completo. Se incorporaron variables clínicas como edad de inicio, PIO máxima sin tratamiento y características del iris y del ángulo. El análisis identificó cuatro grupos fenotípicos. Esto sirve para explorar si bajo la etiqueta “GJAA” existen presentaciones clínicas distintas que pudieran sugerir mecanismos, pronósticos o perfiles genéticos diferentes.
+
+Precauciones para interpretarlo
+- Un conglomerado no es automáticamente una nueva enfermedad ni una etapa evolutiva.
+- El resultado depende de qué variables se incluyan, cómo se midan y qué algoritmo se use.
+- Los grupos deben reproducirse en poblaciones externas antes de considerarse una clasificación clínica estable.
+- El análisis descubre asociaciones; por sí solo no demuestra causalidad.
+
+Referencias
+- BIRLA, 2020. Clinical characterization of juvenile-onset open-angle glaucoma using cluster analysis. PubMed: https://pubmed.ncbi.nlm.nih.gov/31563868/
+- LOFTUS, 2022. Clinical phenotyping in glaucoma using machine learning: revisión de métodos y limitaciones. PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC9411746/
+
+======================================================================
+3. Formación del humor acuoso: difusión, ultrafiltración y secreción activa
+======================================================================
+
+El humor acuoso se forma principalmente en los procesos ciliares. La sangre llega a capilares fenestrados; el líquido y los solutos alcanzan el estroma ciliar y luego deben atravesar el epitelio ciliar bilaminar —epitelio pigmentado y no pigmentado— antes de entrar a la cámara posterior.
+
+a. Difusión
+Es el movimiento pasivo de moléculas, sobre todo liposolubles, a favor de su gradiente de concentración. No requiere gasto directo de ATP. Su contribución depende de la permeabilidad de las membranas y de la diferencia de concentración entre sangre, estroma y humor acuoso.
+
+b. Ultrafiltración
+Es el movimiento pasivo de agua y solutos pequeños desde los capilares fenestrados hacia el estroma ciliar impulsado por gradientes hidrostáticos y oncóticos. Puede entenderse como una filtración a través de una barrera por diferencias de presión. La presión arterial ciliar y la PIO influyen en este componente.
+
+c. Secreción activa
+Es el mecanismo predominante, responsable de aproximadamente 80–90 % de la formación del humor acuoso. El epitelio ciliar no pigmentado transporta activamente iones —principalmente sodio, cloro y bicarbonato— mediante Na+/K+-ATPasa, mecanismos relacionados con anhidrasa carbónica, cotransportadores e intercambiadores. El gradiente osmótico resultante hace que el agua siga a los solutos hacia la cámara posterior, entre otros mecanismos a través de acuaporinas.
+
+Relevancia farmacológica
+- Los inhibidores de la anhidrasa carbónica reducen la disponibilidad/transporte de bicarbonato.
+- Los beta-bloqueadores y los agonistas alfa-2 disminuyen la producción acuosa por otras vías regulatorias.
+- Los inhibidores de Rho-quinasa actúan principalmente aumentando la salida trabecular, no reduciendo la secreción.
+
+Referencias
+- GOEL, 2010. Aqueous humor dynamics: a review. PubMed: https://pubmed.ncbi.nlm.nih.gov/21293732/
+- GÖBEL, 2011. Aqueous humor dynamics, formation and outflow. PubMed: https://pubmed.ncbi.nlm.nih.gov/21328169/
+
+======================================================================
+4. ¿Dónde encontrar una imagen del engrosamiento tipo “huella digital” de la matriz extracelular en la malla trabecular?
+======================================================================
+
+La fuente primaria es el estudio ultraestructural de Furuyoshi y colaboradores en Ophthalmologica (1997). El artículo describe material de membrana basal con patrón tipo huella digital y engrosamiento de la matriz extracelular en la región cribiforme interna y la porción externa de la malla corneoescleral de ojos con glaucoma juvenil.
+
+El resumen de PubMed no incluye la microfotografía. Para ver la imagen original debe consultarse el PDF del artículo en la página de la editorial Karger, que puede requerir acceso institucional o compra. No asigno un número de figura porque el texto completo no está abierto y hacerlo sin revisar el PDF podría inducir a error.
+
+Existe una publicación abierta con imágenes de acumulación de material semejante a membrana basal en malla trabecular inducida por dexametasona, útil para comprender el aspecto histológico, pero no debe rotularse como una imagen de GJAA humano porque corresponde a otro modelo y otra etiología.
+
+Referencias y acceso
+- FURUYOSHI, 1997. Ultrastructural changes in the trabecular meshwork of juvenile glaucoma. PubMed: https://pubmed.ncbi.nlm.nih.gov/9176894/
+- Página del artículo/PDF en Karger, DOI 10.1159/000310781: https://karger.com/oph/article-abstract/211/3/140/254052/Ultrastructural-Changes-in-the-Trabecular-Meshwork
+- OVERBY, 2014. Modelo abierto de depósito de material de membrana basal inducido por glucocorticoides; no es GJAA humano. PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC4126794/
+
+======================================================================
+5. ¿Qué significan penetrancia y expresividad variable?
+======================================================================
+
+Penetrancia
+Es la proporción de personas portadoras de una variante genética que manifiestan el fenotipo asociado, definida para una edad o periodo concreto. Si 100 personas portan una variante patogénica y 80 desarrollan glaucoma antes de los 60 años, la penetrancia a esa edad sería 80 %. Una penetrancia reducida significa que algunos portadores no presentan la enfermedad durante el periodo observado.
+
+Expresividad variable
+Describe cuánto y de qué manera se manifiesta la enfermedad entre quienes sí están afectados. Dos familiares con la misma variante de MYOC pueden diferir en edad de inicio, PIO máxima, velocidad de progresión, magnitud del daño y necesidad de cirugía.
+
+Diferencia esencial
+- Penetrancia responde: “¿aparece o no aparece el fenotipo en el portador?”
+- Expresividad responde: “si aparece, ¿con qué intensidad y características?”
+
+En GJAA hereditario ambas pueden ser dependientes de la edad. Una persona joven portadora que aún no tenga glaucoma no demuestra ausencia definitiva de penetrancia; puede encontrarse antes de la edad habitual de manifestación. También influyen otros genes, ambiente, tratamiento y azar biológico.
+
+Referencias
+- National Library of Medicine. What are reduced penetrance and variable expressivity?: https://medlineplus.gov/genetics/understanding/inheritance/penetranceexpressivity/
+- KINGDOM, 2022. Incomplete penetrance and variable expressivity: from clinical studies to population cohorts. PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC9380816/
+- SELVAN, 2022. Revisión clínica y genética de GJAA. PubMed: https://pubmed.ncbi.nlm.nih.gov/34536459/
+
+======================================================================
+6. ¿Qué hace el retículo endoplásmico en la malla trabecular y cómo se relaciona con MYOC?
+======================================================================
+
+En las células de la malla trabecular, el retículo endoplásmico rugoso participa en la síntesis, plegamiento, modificación inicial y control de calidad de proteínas destinadas a secreción, membrana o compartimentos celulares. Las proteínas correctamente plegadas salen hacia el aparato de Golgi; las mal plegadas se retienen y se intenta refoldarlas o degradarlas mediante mecanismos como la respuesta a proteínas desplegadas y la degradación asociada al retículo endoplásmico.
+
+La miocilina es una proteína secretada por las células de la malla trabecular. Muchas variantes patogénicas de MYOC producen miocilina mal plegada que no se secreta adecuadamente y se acumula dentro del retículo endoplásmico. Al principio, la respuesta a proteínas desplegadas intenta restaurar la homeostasis; si la carga persiste, aparece estrés crónico del retículo, disfunción y eventual pérdida de células trabeculares. Esto favorece mayor resistencia al flujo convencional y elevación de la PIO.
+
+Punto fino
+El mecanismo dominante de muchas variantes patogénicas de MYOC se considera una ganancia tóxica de función por acumulación intracelular, no simplemente ausencia de miocilina normal. La intensidad del defecto depende de la variante; no todas las variantes de MYOC son patogénicas ni se comportan igual.
+
+Referencias
+- CABALLERO, 2001. Processing and secretion of myocilin in trabecular meshwork cells. PubMed: https://pubmed.ncbi.nlm.nih.gov/11401512/
+- ANHOLT, 2013. Involvement of the trabecular meshwork in glaucoma: mechanisms involving myocilin and endoplasmic-reticulum stress. PubMed: https://pubmed.ncbi.nlm.nih.gov/23876925/
+- Texto completo en PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC3795998/
+- VENKATESAN, 2025. Actualización sobre estrés del retículo endoplásmico y glaucoma asociado a miocilina. PubMed: https://pubmed.ncbi.nlm.nih.gov/40385286/
+
+======================================================================
+7. ¿Hay estudios genéticos en PubMed sobre pacientes con glaucoma en Colombia?
+======================================================================
+
+Sí. Los más directamente relevantes encontrados son:
+
+1) Familia raizal afrocolombiana, 2022
+Castillo-Plata y colaboradores realizaron secuenciación de exoma completo en siete miembros de una familia de San Andrés, Providencia y Santa Catalina, cuatro de ellos con diagnóstico de glaucoma, además de dos voluntarios isleños sanos. Identificaron variantes previamente relacionadas con glaucoma y destacaron WLS rs983034. Es un estudio exploratorio de una familia pequeña: genera hipótesis, pero no demuestra por sí solo causalidad monogénica ni permite estimar frecuencias nacionales.
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/36415692/
+- Texto completo en PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC9651171/
+- Revista Colombia Médica: https://colombiamedica.univalle.edu.co/index.php/comedica/article/view/5107
+
+2) Familia colombiana hispana con GJAA y variante MYOC p.Pro370Leu, 2007
+Campos-Mollo y colaboradores estudiaron cinco familias españolas con GJAA y una familia colombiana hispana. En la familia colombiana, la variante MYOC p.Pro370Leu —también escrita P370L— segregó en padre e hija y se asoció con un fenotipo grave y poco controlable con tratamiento médico. Este estudio es especialmente pertinente para GJAA, aunque se trata de una familia y no de una cohorte representativa del país.
+
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/17893668/
+
+Publicación colombiana adicional reciente
+En 2026 se publicó un análisis exploratorio por exoma de 21 pacientes colombianos con glaucoma primario de ángulo abierto. A la fecha de esta revisión no pude confirmar su indexación en PubMed; por eso se separa de los dos estudios anteriores.
+
+- CASANOVA, 2026. Exploratory Analysis of Glaucoma-Associated SNPs in a Colombian Cohort Using Whole-Exome Sequencing: https://www.mdpi.com/2073-4425/17/8/919
+
+Conclusión
+Sí existe investigación genética colombiana, pero todavía predominan muestras pequeñas, familias y análisis exploratorios. No son suficientes para construir frecuencias poblacionales nacionales ni para trasladar directamente cada variante a decisiones clínicas sin clasificación ACMG/AMP, segregación familiar y correlación fenotípica.
+
+======================================================================
+8. ¿Qué significa “peor que −8,5 dB” en el campo visual?
+======================================================================
+
+Habitualmente se refiere a la desviación media, MD por mean deviation, del campo visual automatizado. La MD resume la diferencia promedio ponderada entre la sensibilidad luminosa medida y la esperada para una persona de la misma edad en los puntos examinados.
+
+- Una MD cercana a 0 dB indica una sensibilidad global próxima a la base normativa.
+- Cuanto más negativa es la MD, mayor es la depresión global del campo.
+- “Peor que −8,5 dB” significa un valor numéricamente menor, por ejemplo −10 o −15 dB.
+- No significa “haber perdido 8,5 % de la visión”. El decibel es una unidad logarítmica de sensibilidad luminosa, no un porcentaje lineal de campo o de visión.
+
+Como orientación, la clasificación de Hodapp–Parrish–Anderson usa MD ≥−6 dB para daño temprano, entre −6,01 y −12 dB para daño moderado y <−12 dB para avanzado, pero la categoría final también depende de la localización y profundidad de los puntos defectuosos, especialmente los centrales.
+
+Precauciones
+- Catarata, miosis, corrección refractiva inadecuada, mala fijación, falsos positivos/negativos y aprendizaje pueden empeorar la MD.
+- La MD no debe interpretarse aislada: deben revisarse mapa de desviación patrón, VFI, PSD, índices de confiabilidad y progresión seriada.
+- Un defecto paracentral profundo puede amenazar fijación aun con una MD global relativamente conservada.
+
+Referencias
+- NCBI Bookshelf. Humphrey Visual Field: https://www.ncbi.nlm.nih.gov/books/NBK585112/
+- Visual fields interpretation in glaucoma: a focus on static automated perimetry. PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC3678209/
+- NCBI Bookshelf. Current and Emerging Practice in Visual Field Testing: https://www.ncbi.nlm.nih.gov/books/NBK617845/
+
+======================================================================
+9. ¿La córnea central delgada se asocia con progresión porque se subestima la PIO o por otra razón?
+======================================================================
+
+Las dos explicaciones son plausibles y no son mutuamente excluyentes.
+
+1) Componente de medición
+La tonometría de aplanación de Goldmann está influida por propiedades de la córnea. En promedio, una córnea central delgada puede hacer que la PIO medida sea menor de lo que sería en una córnea con otras propiedades. Por eso un paciente puede parecer “normotenso” y recibir una estimación incompleta de su exposición presórica.
+
+2) Posible biomarcador biomecánico
+El espesor corneal central también puede funcionar como marcador indirecto de propiedades biomecánicas del ojo —córnea, esclera y lámina cribosa— relacionadas con susceptibilidad del nervio óptico. No se ha demostrado que una córnea delgada, por sí misma, sea siempre una causa directa de daño. La histéresis corneal parece aportar información biomecánica y pronóstica adicional y, en algunos estudios, se relaciona más estrechamente con progresión.
+
+Qué mostró OHTS
+En pacientes adultos con hipertensión ocular, una córnea central más delgada se asoció con mayor riesgo de desarrollar glaucoma. Sin embargo, el espesor participa tanto en la medición de PIO como posiblemente en el fenotipo biomecánico; separar ambos efectos es difícil. Además, esos datos no son específicos de GJAA.
+
+Implicación clínica
+- Medir la paquimetría es importante para contextualizar la PIO y el riesgo.
+- No existe una fórmula universal validada que convierta CCT en una “PIO verdadera”. Aplicar tablas de corrección mecánicas puede inducir error y no mejora necesariamente la predicción de riesgo.
+- Es preferible integrar CCT, histéresis corneal si está disponible, nivel y fluctuación de PIO, daño estructural/funcional, edad, antecedentes familiares y velocidad de progresión.
+
+Referencias
+- BRANDT, 2004. Central corneal thickness in the Ocular Hypertension Treatment Study. PubMed: https://pubmed.ncbi.nlm.nih.gov/15021216/
+- MEDEIROS, 2012. Is corneal thickness an independent risk factor for glaucoma? PubMed: https://pubmed.ncbi.nlm.nih.gov/22385483/
+- Texto completo en PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC3811124/
+- BRANDT, 2012. Adjusting intraocular pressure for central corneal thickness does not improve prediction models for primary open-angle glaucoma. PubMed: https://pubmed.ncbi.nlm.nih.gov/21705084/
+- MEDEIROS, 2013. Corneal hysteresis as a risk factor for glaucoma progression. PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC3804228/
+
+======================================================================
+10. ¿Qué es la OCT-A, el Topcon DRI OCT Triton la mide y cómo se expresan sus valores?
+======================================================================
+
+Qué es
+La angiografía por tomografía de coherencia óptica, OCT-A, compara señales de OCT repetidas en el mismo sitio para detectar cambio por movimiento de eritrocitos. Produce mapas en face de señal de flujo en plexos segmentados de retina, coroides y región peripapilar. No usa fluoresceína.
+
+¿Triton la realiza?
+Sí. El DRI OCT Triton es un swept-source OCT de 1050 nm y 100.000 A-scans por segundo que puede realizar OCT-A mediante el algoritmo OCTARA. En una unidad concreta, la función depende de que estén instalados el módulo/licencia y la versión de software correspondientes; no basta con que el equipo sea “Triton”.
+
+¿Qué cuantifica?
+Los nombres exactos dependen del software y del protocolo. Los resultados habituales incluyen:
+- Densidad de vasos o densidad de área/perfusión: porcentaje del área analizada ocupada por píxeles con señal de flujo, expresado en %.
+- Valores globales o sectoriales peripapilares, maculares o de cabeza del nervio óptico, según la región de interés.
+- Área de la zona avascular foveal, expresada en mm².
+- En análisis de investigación, densidad de longitud vascular, que puede expresarse en mm de vaso por mm² de tejido, equivalente a mm⁻¹.
+
+Qué no mide
+OCT-A no mide directamente el flujo sanguíneo volumétrico en mL/min. Detecta señal de movimiento por encima de ciertos umbrales y luego el software calcula métricas derivadas.
+
+Limitaciones
+Las cifras no son intercambiables entre equipos o algoritmos. Segmentación, tamaño de escaneo, centrado, miopía, fuerza de señal, artefactos de movimiento/proyección y umbral de binarización pueden cambiar el resultado. Para seguimiento conviene usar el mismo dispositivo, protocolo y control de calidad.
+
+Referencias
+- AKIL, 2017. Swept-source OCT angiography imaging of the optic disc and peripapillary region in glaucoma, con DRI OCT Triton. PubMed: https://pubmed.ncbi.nlm.nih.gov/28152070/
+- Texto completo: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170476
+- KHAYRALLAH, 2021. OCT-A con Triton y cálculo automatizado de densidad capilar superficial. PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC8361292/
+- Especificaciones oficiales Topcon DRI OCT Triton: https://topconhealthcare.com/products/triton/
+
+======================================================================
+11. ¿Por qué en glaucoma de tensión normal los defectos pueden ser paracentrales, localizados, verticalmente asimétricos y más frecuentes en el hemicampo superior?
+======================================================================
+
+Patrón observado
+En comparación con el glaucoma de PIO alta, el GTN tiende a mostrar con mayor frecuencia daño focal del anillo neurorretiniano y de la capa de fibras nerviosas, hemorragias de disco y escotomas paracentrales más profundos. No es un patrón exclusivo ni patognomónico.
+
+Correlación anatómica
+Un defecto en el hemicampo visual superior corresponde a lesión de retina/capa de fibras nerviosas inferior y del anillo inferior o inferotemporal del nervio óptico. Los haces arcuatos se organizan alrededor de la mácula y respetan aproximadamente el rafe horizontal retiniano; por eso un daño focal de un haz puede producir marcada asimetría entre los hemicampos superior e inferior.
+
+¿Por qué suele afectarse el hemicampo superior?
+Muchas series de escotoma paracentral inicial encuentran con mayor frecuencia defectos superiores, correspondientes a lesión inferotemporal. Se han propuesto:
+- vulnerabilidad anatómica o biomecánica regional de la lámina cribosa;
+- defectos focales de lámina y hemorragia de disco;
+- perfusión ocular baja, hipotensión nocturna y disfunción vascular;
+- susceptibilidad de haces maculopapilares/inferiores.
+
+Sin embargo, el predominio superior no tiene una explicación única demostrada. Es más correcto decir que la región inferotemporal parece ser un sitio frecuente de lesión focal en estos ojos y que mecanismos mecánicos y vasculares probablemente interactúan.
+
+Importancia práctica
+Un 24-2 puede submuestrear la región central. Si la estructura o los síntomas sugieren compromiso macular, conviene complementar con 10-2 o 24-2C y OCT macular/células ganglionares. La mayor parte de la evidencia procede de GTN adulto; no debe asumirse que el GJTN juvenil tenga exactamente la misma distribución sin datos específicos.
+
+Referencias
+- CHEN, 2020. Normal tension glaucoma in Asia. PubMed: https://pubmed.ncbi.nlm.nih.gov/33437596/
+- ZEITER, 1992. Visual field defects in patients with normal-tension glaucoma and patients with high-tension glaucoma. PubMed: https://pubmed.ncbi.nlm.nih.gov/1463046/
+- RAO, 2014. Clinical and structural characteristics of initial parafoveal scotoma in glaucoma. PubMed: https://pubmed.ncbi.nlm.nih.gov/24595065/
+- Texto completo en PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC3940960/
+- KIM, 2015. Characteristics and progression of parafoveal scotoma in normal-tension glaucoma. PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC4684192/
+- Revisión sistemática de defectos centrales en glaucoma, 2024. PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC11811403/
+
+======================================================================
+12. ¿Está disponible netarsudil 0,02 % en Colombia?
+======================================================================
+
+Conclusión prudente a 19 de agosto de 2026
+No pude confirmar disponibilidad comercial rutinaria ni un registro sanitario colombiano vigente para netarsudil 0,02 % (Rhopressa). La fuente colombiana especializada más reciente localizada, de la Asociación Colombiana de Glaucoma, indica que los inhibidores de Rho-quinasa como netarsudil no están disponibles en Colombia.
+
+La página en español de Alcon que aparece en algunas búsquedas corresponde a Ecuador y muestra un registro ecuatoriano; no demuestra disponibilidad en Colombia. Una importación individual o por un mecanismo especial, si fuera autorizada, tampoco equivaldría a disponibilidad comercial general.
+
+Cómo verificar antes de prescribir
+1. Consultar el registro sanitario en la búsqueda oficial de INVIMA por principio activo “netarsudil” y por marca “Rhopressa”.
+2. Confirmar con Alcon Colombia y con una farmacia/distribuidor autorizado.
+3. Verificar concentración, indicación, cadena de suministro y situación regulatoria del producto específico.
+
+Fuentes
+- Asociación Colombiana de Glaucoma. Tratamiento para el glaucoma; señala que netarsudil no está disponible en Colombia: https://www.glaucomacolombia.org/tratamiento-para-el-glaucoma/
+- Consulta oficial de registros sanitarios de INVIMA: https://www.invima.gov.co/consulta-registros-sanitarios
+- Página de Alcon para Ecuador, útil para evitar confundir el registro ecuatoriano con uno colombiano: https://rhopressa.myalcon.com/es-EC/ecp/
+- Etiqueta farmacológica oficial estadounidense de Rhopressa/netarsudil 0,02 %: https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d4f0e3a-5b86-4c43-982a-813b22ae7e22
+
