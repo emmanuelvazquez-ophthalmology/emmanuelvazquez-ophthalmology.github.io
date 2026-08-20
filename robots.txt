@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emmanuelvazquez-ophthalmology.github.io/sitemap.xml
+
